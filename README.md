@@ -5,3 +5,9 @@
 
 
 # commiting from the vs code
+
+1. modify the text in trunk branch
+
+
+# trunk branch
+1. commit the changes from the TRUNK branch
